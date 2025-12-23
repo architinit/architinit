@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Archit Bali !
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python and AI/ML concepts.
+- 👀 I’m interested in Data Analytics.
+- 🌱 Well versed with Azure, SQL, Tableau, Power BI, Python, Excel.
 - 😄 Pronouns: he/him
