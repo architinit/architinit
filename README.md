@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Archit Bali !
-- 👀 I’m interested in Data Analytics.
-- 🌱 Well versed with Azure, SQL, Tableau, Power BI, Python, Excel.
+- 👀 I’m interested in Software Development.
 - 😄 Pronouns: he/him
