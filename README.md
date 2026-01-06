@@ -18,13 +18,6 @@
 | **Tools** | ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white) |
 | **Core Eng.** | `Data Structures & Algorithms` `OOPS` `Operating Systems` `Computer Networks` `DBMS` |
 
-### ⚡ GitHub Metrics
-&nbsp;
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=architinit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architinit&layout=compact&theme=dracula"/>
-</p>
-
 ### 🤝 Let's Build Something
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archit-bali)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archit.init@gmail.com)
