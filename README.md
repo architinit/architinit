@@ -1,17 +1,13 @@
 # 👨‍💻 Archit Bali
-**Software Developer Enthusiast** `Azure Certified Expert (AZ-400)`
+**Cloud Architect & Backend Developer** `Azure Certified Expert (AZ-400)` | `AI/ML Researcher` | `Java Enthusiast`
 
 ![Visitors](https://komarev.com/ghpvc/?username=architinit&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
----
-
 ### 🚀 The Mission
-- ☁️ **Expertise:** Designing resilient cloud infrastructure and CI/CD automation.
-- 🔬 **Research:** Digital arithmetic optimization (Published in CRC Press 2025).
-- 🛠️ **Current Focus:** Scaling Java/Spring Boot microservices and ML models.
-- 🎓 **Education:** Final year B.Tech (AI/ML) | 8.17 CGPA.
-
----
+* ☁️ **Expertise:** Designing resilient cloud infrastructure and CI/CD automation.
+* 🔬 **Research:** Digital arithmetic optimization (Published in CRC Press 2025).
+* 🛠️ **Current Focus:** Scaling Java/Spring Boot microservices and ML models.
+* 🎓 **Education:** Final year B.Tech (AI/ML) | 8.17 CGPA.
 
 ### 🧰 Tech Stack
 | Category | Tools & Technologies |
@@ -20,15 +16,12 @@
 | **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
 
----
-
 ### ⚡ GitHub Metrics
+&nbsp;
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=architinit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architinit&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 ### 🤝 Let's Build Something
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archit-bali)
