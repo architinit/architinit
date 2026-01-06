@@ -12,6 +12,6 @@
 | **Tools** | ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white) |
 | **Core Eng.** | `Data Structures & Algorithms` `OOPS` `Operating Systems` `Computer Networks` `DBMS` |
 
-### 🤝 Let's Build Something
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/archit-bali-223aa621b)
+### 🤝 Contact me -
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([in/archit-bali-223aa621b](https://www.linkedin.com/in/archit-bali-223aa621b/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archit.init@gmail.com)
