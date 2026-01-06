@@ -3,12 +3,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=architinit&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-### 🚀 The Mission
-☁️ **Expertise:** Designing resilient cloud infrastructure and CI/CD automation.
-🔬 **Research:** Digital arithmetic optimization (Published in CRC Press 2025).
-🛠️ **Current Focus:** Full Stack Development.
-🎓 **Education:** Final year B.Tech ( CSE AI/ML) | 8.17 CGPA (Till 6th Sem).
-
 ### 🧰 Technical Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
