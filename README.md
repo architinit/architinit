@@ -1,26 +1,26 @@
 # 👨‍💻 Archit Bali
-**Cloud Architect & Backend Developer** `Azure Certified Expert (AZ-400)` | `AI/ML Researcher` | `Java Enthusiast`
+**Aspiring Software Engineer** `Microsoft Certified: Azure Administrator Associate & DevOps Engineer Expert `
 
 ![Visitors](https://komarev.com/ghpvc/?username=architinit&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### 🚀 The Mission
-* ☁️ **Expertise:** Designing resilient cloud infrastructure and CI/CD automation.
-* 🔬 **Research:** Digital arithmetic optimization (Published in CRC Press 2025).
-* 🛠️ **Current Focus:** Scaling Java/Spring Boot microservices and ML models.
-* 🎓 **Education:** Final year B.Tech (AI/ML) | 8.17 CGPA.
+☁️ **Expertise:** Designing resilient cloud infrastructure and CI/CD automation.
+🔬 **Research:** Digital arithmetic optimization (Published in CRC Press 2025).
+🛠️ **Current Focus:** Full Stack Development.
+🎓 **Education:** Final year B.Tech ( CSE AI/ML) | 8.17 CGPA (Till 6th Sem).
 
-### 🧰 Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud/DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GH_Actions-2088FF?logo=github-actions&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+### 🧰 Technical Skills
+**Languages:** Java, SQL, HTML, CSS, JavaScript 
+**Frameworks & Libraries:** Spring Boot, jQuery, Ajax, REST APIs 
+**Tools:** Maven, VS Code, IntelliJ IDEA, Git, GitHub 
+***Cloud & DevOps:** Microsoft Azure, IAM, Entra ID, RBAC, VNet, NSG, Key Vault, Git, GitHub, Docker
+**Core Engineering:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPS), Operating Systems, Computer Networks, Database Management (DBMS)
 
 ### ⚡ GitHub Metrics
 &nbsp;
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=architinit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architinit&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=architinit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architinit&layout=compact&theme=dracula"/>
 </p>
 
 ### 🤝 Let's Build Something
